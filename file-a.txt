@@ -1,0 +1,4 @@
+This is file A
+
+Plain text file to fiddle with Git.
+

@@ -1,0 +1,12 @@
+{
+  "repoOwner": "norbux",
+  "repoName": "tagging-practice",
+
+  // the branches available to backport to
+  "targetBranchChoices": ["master", "main", "feature-a", "feature-b", "6.1", "6.0"],
+
+  // Optional: Automatically detect which branches a pull request should be backported to based on the pull request labels.
+  "branchLabelMapping": {
+    "^backport-to-(.+)$": "$1"
+  }
+}

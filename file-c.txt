@@ -3,3 +3,5 @@ This is file C
 Add content to file C.
 
 more text added to C.
+
+Yet another modification for C.

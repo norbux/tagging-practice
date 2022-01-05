@@ -3,3 +3,5 @@ This is file B
 Added content to file B
 
 more text added to B.
+
+Yet another modification for B.

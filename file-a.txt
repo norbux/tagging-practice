@@ -3,3 +3,5 @@ This is file A
 Plain text file to fiddle with Git.
 
 more text added to A
+
+Yet another change to A

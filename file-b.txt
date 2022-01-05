@@ -5,3 +5,5 @@ Added content to file B
 more text added to B.
 
 Yet another modification for B.
+
+This line was added for branch feature-b

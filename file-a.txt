@@ -5,3 +5,5 @@ Plain text file to fiddle with Git.
 more text added to A
 
 Yet another change to A
+
+This line was introduced in branch feature-a
